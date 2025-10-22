@@ -20,11 +20,14 @@ const Navbar = () => {
         className="flex item center gap-2"
         onClick={() => {
           setActive("");
-          window.scrollTo(0,0);
+          window.scrollTo(0, 0);
         }}
         >
           <img src={logo} alt="logo" className="w-9 
           h-9 object-contain" />
+          <p className="text-white text-[18]
+          font-bold cursor-pointer">Alok Raj
+          <span className="sm:block hidden"> | Portfolio</span></p>
         </Link>
       </div>
     </nav>
