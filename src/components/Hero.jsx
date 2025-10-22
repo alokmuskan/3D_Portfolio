@@ -12,7 +12,7 @@ const Hero = () => {
       flex-row items-start gap-5 `}> 
         <div className="flex flex-col 
         justify-center items-center mt-5">
-          
+          <div className="w-5 h-5 rounded-full bg-[#915eff]"/>
         </div>
       </div>
     </section>
