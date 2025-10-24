@@ -20,7 +20,7 @@ const Computers = ( {isMobile}) => {
         intensity={2}
         castShadow
         shadow-mapSize={1024}
-        color="#ffffff"
+        color="#ffffff" 
       />
       <ambientLight intensity={3} color="#ffffff" />
       <primitive
