@@ -80,29 +80,28 @@ const Works = () => {
 
       <div className="w-full flex">
         <motion.p 
-        variants={fadeIn("", "", 0.1, 1)}
-        className="mt-3 text-secondary text-
-        [17px] max-w-3xl leading-[30px]"
+        variants={fadeIn("", "",0.1, 1)}
+          className="mt-3 text-secondary text-[17px]
+          max-w-3-xl leading-[30px]"
         >
-          This section showcases a collection of my
-           projects that reflect my journey as a 
-           developer — from learning the fundamentals 
-           of programming in C++ to building interactive
-            web applications using HTML, CSS, and 
-            JavaScript.Each project represents a step 
-            forward in applying what Ive learned, 
-            experimenting with new concepts, and pushing
-            my creativity to solve real-world problems. 
-             ome focus on mastering Data Structures and 
-            Algorithms, while others highlight my ability 
-            to design and develop clean, responsive, and 
-            functional web interfaces.I believe projects 
-            are the best way to learn — they turn ideas 
-            into experience and theory into practice. 
-            Through these creations, Ive strengthened 
-            my understanding of how logic, design, and
-            technology come together to build meaningful 
-            digital experiences.
+        This section showcases a collection of my projects 
+        that highlight my growth as a developer — from 
+        learning the fundamentals of programming in C++ 
+        to building modern, interactive web applications 
+        using HTML, CSS, JavaScript, and React. Each project
+         marks a step forward in applying my technical 
+         knowledge, experimenting with frameworks, and 
+         exploring new problem-solving approaches. Some 
+         projects focus on strengthening my understanding 
+         of Data Structures and Algorithms, while others 
+         reflect my passion for crafting clean, responsive, 
+         and performance-driven web interfaces. I see every 
+         project as a learning opportunity — a chance to 
+         transform ideas into code and concepts into 
+         experience. Through these creations, I’ve deepened 
+         my understanding of how logic, design, and technology 
+         work together to create impactful and efficient 
+         digital solutions.
         </motion.p>
       </div>
 
