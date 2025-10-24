@@ -24,8 +24,11 @@ const Hero = () => {
           className="text-[#915eff]">Alok Raj</span></h1>
           <p className={`${styles.heroSubText} mt-2
           text-white-100`}>
-            I develop 3D visuals, user <br className="sm:block hidden"/>
-            interfaces and web applications.
+            I develop interactive experiences,<br className="sm:block hidden"/>
+            craft clean interfaces, and <br className="sm:block hidden"/> 
+            build digital solutions <br className="sm:block hidden"/>
+            that blend creativity <br className="sm:block hidden"/>
+            with code.
           </p>
         </div>
       </div>
