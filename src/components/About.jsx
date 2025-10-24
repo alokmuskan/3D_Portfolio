@@ -43,12 +43,12 @@ const About = () => {
         <p className={styles.sectionSubText}
         >Introduction</p>
         <h2 className={styles.sectionHeadText}
-        >Overview.</h2>
+        >Overview</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "",0.1, 1)}
-        className="mt-4 text-secondary text-[17px]
+        className="mt-3 text-secondary text-[17px]
         max-w-3-xl leading-[30px]"
       >
         A passionate and curious developer who 
@@ -67,7 +67,7 @@ const About = () => {
         improving my front-end development skills while 
         also exploring back-end technologies to become a 
         well-rounded developer.
-      </motion.p>
+      </motion.p> 
 
       {/* Cards of overview section */}
       <div className="mt-20 flex flex-wrap gap-10">
