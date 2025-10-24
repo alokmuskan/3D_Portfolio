@@ -117,11 +117,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Member",
+    company_name: "The Singularity Lab",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2025 - Till Date",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -130,44 +130,47 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Internal Affairs & Operations Coordinator",
+    company_name: "Coding Club",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "July 2025 - Till Date",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Coordinating internal club activities, events, and operations to ensure smooth execution and effective communication among members.",
+      "Collaborating with core team members to plan, organize, and manage coding events, workshops, and meetings.",
+      "Maintaining proper documentation, attendance, and communication channels to streamline club operations.",
+      "Assisting in decision-making, task allocation, and resolving internal issues to support overall club growth and productivity.",
+      "Fostering collaboration between technical and non-technical teams to enhance the club’s efficiency and member engagement.",
+
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Member",
+    company_name: "E-Cell SRMAP",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "August 2024 - July 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Actively participated in various entrepreneurship and innovation events organized by the E-Cell.",
+      "Engaged in workshops and discussions to develop a deeper understanding of startups, business models, and leadership skills.",
+      "Collaborated with fellow members to exchange ideas and promote an entrepreneurial mindset within the student community.",
+      "Contributed to group activities, brainstorming sessions, and networking opportunities with industry professionals.",
+      "Learned about the fundamentals of entrepreneurship, teamwork, and creative problem-solving through active involvement in club initiatives.",
     ],
   },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Full stack Developer",
+  //   company_name: "Meta",
+  //   icon: meta,
+  //   iconBg: "#E6DEDD",
+  //   date: "Jan 2023 - Present",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
