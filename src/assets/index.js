@@ -25,6 +25,7 @@ import bootstrap from "./tech/bootstrap.png";
 import sql from "./tech/sql.png";
 
 
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -33,6 +34,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import weather from "./weather.png";
+import tatkal from "./tatkal.png";
+import chat from "./chat.png";
 
 export {
   logo,
@@ -66,4 +70,7 @@ export {
   mysql,
   bootstrap,
   sql,
+  weather,
+  tatkal,
+  chat,
 };

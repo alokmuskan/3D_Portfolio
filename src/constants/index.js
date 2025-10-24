@@ -26,6 +26,9 @@ import {
   mysql,
   bootstrap,
   sql,
+  weather,
+  tatkal,
+  chat,
 } from "../assets";
 
 export const navLinks = [
@@ -264,11 +267,11 @@ const projects = [
       "Web-based music streaming application that allows users to browse songs, create playlists, and enjoy a seamless listening with an interactive and responsive user interface inspired by Spotify’s design.",
     tags: [
       {
-        name: "nextjs",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
@@ -278,6 +281,69 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/alokmuskan/Projects/tree/main/Spotify%20clone",
+  },
+  {
+    name: "SkyPulse",
+    description:
+      "Interactive weather widget app that displays real-time temperature, humidity, and conditions for any city using live API data. Features a clean UI with dynamic icons and background changes based on current weather.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: weather,
+    source_code_link: "https://github.com/alokmuskan/Weather-Widget",
+  },
+  {
+    name: "Tatkal-helper",
+    description:
+      "Interactive tool designed to assist users in speeding up the IRCTC Tatkal ticket booking process by auto-filling passenger details, optimizing form inputs, and providing quick access to booking options for a smoother and faster experience.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tatkal,
+    source_code_link: "https://github.com/alokmuskan/",
+  },
+  {
+    name: "5Min_Chat (Mini Whatsapp)",
+    description:
+      "Real-time chat application that enables instant messaging between users with a simple and intuitive interface. Built for quick and seamless conversations, it ensures fast message delivery and smooth user experience.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: chat,
+    source_code_link: "https://github.com/alokmuskan/5Min_Chat",
   },
 ];
 
