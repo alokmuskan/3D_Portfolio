@@ -27,7 +27,7 @@ const ServiceCard = ({ index, title, icon }) => {
           justify-evenly items-center flex-col"
         >
           <img src={icon} alt={title}
-          className="w-16 h-16 object-contain"/>
+          className="w-40 h-30 object-contain"/>
           <h3 className="text-white text-[20px]
           font-bold text-center">{title}</h3>
         </div>
@@ -69,6 +69,7 @@ const About = () => {
         well-rounded developer.
       </motion.p>
 
+      {/* Cards of overview section */}
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
           <ServiceCard key={service.title} index=
