@@ -217,9 +217,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Singularity Lab's Website",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A responsive and visually appealing website built for Singularity Labs to present its tech-driven initiatives, research, and community engagement in a modern digital format.",
     tags: [
       {
         name: "react",
@@ -235,33 +235,33 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://thesingularitylab.netlify.app/",
   },
   {
-    name: "Job IT",
+    name: " Listify - Full Stack",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Listify – Web application that allows users to browse, search, and list various services, view ratings and reviews from other users, and explore locations through integrated maps, providing a comprehensive platform for discovering and evaluating local offerings.",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "css",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://majorproject-ycqi.onrender.com/",
   },
   {
-    name: "Trip Guide",
+    name: "SPOTIFY CLONE (UI/UX)",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web-based music streaming application that allows users to browse songs, create playlists, and enjoy a seamless listening with an interactive and responsive user interface inspired by Spotify’s design.",
     tags: [
       {
         name: "nextjs",
@@ -277,7 +277,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/alokmuskan/Projects/tree/main/Spotify%20clone",
   },
 ];
 
